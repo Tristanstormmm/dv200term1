@@ -119,5 +119,3 @@ The "Crypto Compare" project has provided me with an invaluable learning experie
 For any inquiries or further information, please feel free to reach out to:
 
 - **Tristan Storm** - [221195@virtualwindow.co.za]
-- **Project Link** - [Project Link](https://github.com/Tristanstormmm/FinalHandIn221195)
-
